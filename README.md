@@ -6,7 +6,7 @@
 
 - To run on your :
   - Clone the Repo
-  - Download the requirements :
+  - Install the requirements :
     - Python 3.8
     - Django
     - Pillow(For Image Manipulation)
